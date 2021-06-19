@@ -1,1 +1,1 @@
-# Wolframalpha-py-Api-
+# Wolframalpha-py-Api
